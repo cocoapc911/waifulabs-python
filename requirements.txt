@@ -1,0 +1,6 @@
+asyncio
+requests
+bs4
+websockets
+io
+base64
